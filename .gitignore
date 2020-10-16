@@ -3,8 +3,3 @@ www
 cert
 nginx
 *.sh
-.idea/modules.xml
-.idea/$CACHE_FILE$
-.idea/misc.xml
-.idea/vcs.xml
-*.iml
